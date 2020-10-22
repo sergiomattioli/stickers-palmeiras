@@ -1,981 +1,1479 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "brasileirao20j12",
-      "name": "vs Ceara",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "gol",
-      "name": "Pack Gol",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "17.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "18.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "19.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "20.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "21.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "22.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "libertadores2020fg5",
-      "name": "vs Bolivar",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "libertadores2020fg3",
-      "name": "vs Bolivar",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "brasileirao20j8",
-      "name": "vs Corinthians",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "brasileirao20j7",
-      "name": "vs Bragantino",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "16.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "brasileirao20j4",
-      "name": "vs Santos",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "seriea5",
-      "name": "vs Paranaense",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "campeao2020",
-      "name": "Campeao Paulista 2020",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "pack2",
-      "name": "Pack Team 2020 (1)",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "pack3",
-      "name": "Pack Team 2020 (2)",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "12.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "13.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "14.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "15.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "libertadores2020a",
-      "name": "Pack Libertadores 2020",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "11.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "paulista2020",
-      "name": "Pack Paulista 2020 (1)",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": []
-        }
-      ]
-    },
-    {
-      "identifier": "seriea4",
-      "name": "Pack Serie A (5)",
-      "publisher": "Ant Space",
-      "tray_image_file": "tray.png",
-      "publisher_website": "",
-      "publisher_email": "ant.space.soft@gmail.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "isAnimated":false,
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": []
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": []
-        }
-      ]
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"libertadores2020fg6",
+         "name":"vs Tigre",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"brasileirao20j12",
+         "name":"vs Ceara",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"gol",
+         "name":"Pack Gol",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"18.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"19.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"20.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"21.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"22.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"23.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"24.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"25.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"26.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"27.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"28.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"29.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertadores2020fg5",
+         "name":"vs Bolivar",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertadores2020fg3",
+         "name":"vs Bolivar",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"brasileirao20j8",
+         "name":"vs Corinthians",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"brasileirao20j7",
+         "name":"vs Bragantino",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"brasileirao20j4",
+         "name":"vs Santos",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"seriea5",
+         "name":"vs Paranaense",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"campeao2020",
+         "name":"Campeao Paulista 2020",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"pack2",
+         "name":"Pack Team 2020 (1)",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"pack3",
+         "name":"Pack Team 2020 (2)",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"libertadores2020a",
+         "name":"Pack Libertadores 2020",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"paulista2020",
+         "name":"Pack Paulista 2020 (1)",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"seriea4",
+         "name":"Pack Serie A (5)",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      }
+   ]
 }
-
