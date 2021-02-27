@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"periquito1",
-         "name":"Periquito (1)",
+         "name":"Periquito",
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -79,7 +79,7 @@
       },
       {
          "identifier":"porco1",
-         "name":"Porco (1)",
+         "name":"Porco",
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
