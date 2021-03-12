@@ -2,9 +2,9 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
   "ios_app_store_link": "",
   "sticker_packs": [
-  	{
-      "identifier": "campeao2020",
-      "name": "Campeao Paulista 2020",
+    {
+      "identifier": "paulista2021j1",
+      "name": "vs Sao Caetano",
       "publisher": "Ant Space",
       "tray_image_file": "tray.png",
       "publisher_website": "",
@@ -73,6 +73,14 @@
         },
         {
           "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
           "emojis": []
         }
       ]
