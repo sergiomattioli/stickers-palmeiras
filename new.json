@@ -4,7 +4,7 @@
    "sticker_packs":[
       {
          "identifier":"worldcup2022brazil2",
-         "name":"World Cup Brazil 1",
+         "name":"Brasil 2022 (1)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -181,7 +181,7 @@
       },
       {
          "identifier":"worldcup2022brazil3",
-         "name":"World Cup Brazil 2",
+         "name":"Brasil 2022 (2)",
          "publisher":"Astro Mobile",
          "tray_image_file":"tray.png",
          "publisher_website":"",
